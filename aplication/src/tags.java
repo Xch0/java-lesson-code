@@ -79,7 +79,8 @@ public class tags {
 		frame.setSize(420, 420);
 		frame.setVisible(true);
 		frame.setResizable(false);
-		
-
 	}
 }
+
+
+//testi hamar
